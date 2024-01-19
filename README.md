@@ -6,6 +6,8 @@ VKUSSOVET - Приложение для заказа еды
 
 Стек: MVVM, URLSession, NSCache, GCD, Compositional Layout
 
+Скринкаст:  
+https://disk.yandex.ru/i/6bLGR1zhYZStxg
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-01-19 at 14 03 32](https://github.com/desikvasya/SushiApp/assets/109447827/ff394e9c-d698-4a56-a5c0-9edc912dd85a)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-01-19 at 14 03 39](https://github.com/desikvasya/SushiApp/assets/109447827/4770d81f-9148-48f1-acc9-8ca5f0405802)
